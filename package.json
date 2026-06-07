@@ -1,0 +1,18 @@
+{
+  "name": "praisy-portfolio",
+  "version": "1.0.0",
+  "description": "Praisy Mathew Personal Creative Portfolio and Resume Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server . -p 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "Praisy Mathew",
+  "license": "ISC"
+}
